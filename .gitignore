@@ -1,0 +1,7 @@
+*.pdf
+.DS_Store
+.idea/
+.vscode/
+emails
+*.txt
+__pycache__/
