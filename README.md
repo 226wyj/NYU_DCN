@@ -4,6 +4,8 @@
 
 This repository is about the DCN project of NYU. Students should implement a simple email clients/servers (SMTP, POP3) and HTTP servers based on Flask, and then deploy them using Docker and Kubernetes. There was a time that people can access the public IP address to experience how email clients and servers work. However, after the semester ends, the free account to access IBM Kubernetes server was also retracted by our teacher, thus you can only test those files locally, and the testing methods can be seen on Part 2. 
 
+To access the whole document for the project, please visit this [link](https://pan.baidu.com/s/1ljjoMQ_mLbevYmUQLbtjCw ), the extraction code is t0h6.
+
 <hr></hr>
 
 **Public IP (Now aborted) :**	169.57.112.50
