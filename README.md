@@ -1,4 +1,4 @@
-# Project of NYU Data Communication and Network Course
+# Email Server Based On SMTP and POP3
 
 ### 1. Introduction
 
